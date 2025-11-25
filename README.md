@@ -36,9 +36,9 @@ Kik("create textarea 1 message Enter your message")
 
 // Dropdown select
 Kik("create select 3 Option1 Option2 Option3")
-
+```
 Components You Will Love
-
+```
 // Modal window
 const modal = Kik("create modal 1 Modal Title This is modal content")
 
