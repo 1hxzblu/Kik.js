@@ -19,9 +19,9 @@ Kik("create h1 Welcome to My Website")
 
 // Some text
 Kik("text This is a sample text")
-
+```
 Advanced Element Creation
-
+```
 // Add an image
 Kik("create img 1 https://examplecom/imagejpg Alt Text")
 
