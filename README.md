@@ -1,4 +1,3 @@
-Usage Made Simple
 
 Creating Elements Quickly
 ```
